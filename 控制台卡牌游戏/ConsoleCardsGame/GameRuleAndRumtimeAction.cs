@@ -439,6 +439,10 @@ namespace ConsoleCardsGame
             Console.WriteLine();
             for (int i = 0; i < ecsl;) { Console.Write($"每护甲伤害减免:{enemyCards[i].ArmorReducesDamage} "); i++; }
             Console.WriteLine();
+            for (int i  = 0; i < ecsl;) { Console.Write($"平面阵列:{enemyCards[i].PlanarArraysU}    "); i++; }
+            Console.WriteLine();
+            for (int i = 0; i < ecsl;) { Console.Write($"单位类型:{enemyCards[i].SpecialAttributesU}    "); i++; }
+            Console.WriteLine();
             for (int i = 0; i < ecsl;) { Console.Write($"行动点:{enemyCards[i].ActionPoints}             "); i++; }
             Console.Write("\n\n\n\n\n\n\n\n\n\n\n");
             int pcsl = playerCards.Count;
@@ -505,6 +509,10 @@ namespace ConsoleCardsGame
             for (int i = 0; i < ecsl;) { Console.Write($"护甲值:{playerCards[i].Armor} "); i++; }
             Console.WriteLine();
             for (int i = 0; i < ecsl;) { Console.Write($"每护甲伤害减免:{playerCards[i].ArmorReducesDamage} "); i++; }
+            Console.WriteLine();
+            for (int i = 0; i < ecsl;) { Console.Write($"平面阵列:{playerCards[i].PlanarArraysU}    "); i++; }
+            Console.WriteLine();
+            for (int i = 0; i < ecsl;) { Console.Write($"单位类型:{playerCards[i].SpecialAttributesU}    "); i++; }
             Console.WriteLine();
             for (int i = 0; i < pcsl;) { Console.Write($"行动点:{playerCards[i].ActionPoints}             ");i++; }
             Console.WriteLine();
