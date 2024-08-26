@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List id ="相位碎裂炮">
+	<Weapons>
+		<TypesOfWeapons value="对地,对空"/>
+		<Damage value="35"/>
+		<ArmorDamageBuff index ="重甲" value ="50"/>
+		<ArmorDamageBuff index ="轻装甲" value ="45"/>
+		<ArmorDamageBuff index ="中装甲" value ="35"/>
+		<ArmorDamageBuff index ="重装甲" value ="20"/>
+		<ArmorDamageBuff index ="建筑护甲" value ="15"/>
+		<SpecialDamageBuff index ="机械" value ="30"/>
+	</Weapons>
+</List>

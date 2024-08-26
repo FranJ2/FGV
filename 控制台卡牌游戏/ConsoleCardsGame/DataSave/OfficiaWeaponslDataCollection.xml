@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data type = "Weapons">
+	<Weapons id ="相位碎裂炮">
+		<Damage value="35"/>
+		<WeaponTargetingLimitations value="对地"/>
+		<ArmorDamageBuff index = "重甲" value ="50"/>
+		<ArmorDamageBuff index = "轻装甲" value ="45"/>
+		<ArmorDamageBuff index = "中装甲" value ="35"/>
+		<ArmorDamageBuff index = "重装甲" value ="20"/>
+		<ArmorDamageBuff index = "建筑护甲" value ="15"/>
+		<SpecialDamageBuff index = "机械" value ="30"/>
+	</Weapons>
+	<Weapons id ="工兵铲">
+		<Damage value="15"/>
+		<WeaponTargetingLimitations value="对地"/>
+		<ArmorDamageBuff index = "轻装甲" value ="10"/>
+		<SpecialDamageBuff index = "生物" value ="15"/>
+	</Weapons>
+</Data>
