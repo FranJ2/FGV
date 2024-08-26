@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<List id ="单位">
+	<Unit>
+		<Name value = "不朽者"/>
+		<Hp value = "350"/>
+		<MaxHp value = "350"/>
+		<Armor value = "2"/>
+		<ArmorFormula value= "2"/>
+		<Weapons Link= "相位碎裂炮"/>
+		<ArmorType index = "重装甲"/>
+		<ActionPoints value = "1"/>
+		<PlanarArrays index = "地面单位"/>
+		<SpecialAttributes index = "机械"/>
+	</Unit>
+</List>

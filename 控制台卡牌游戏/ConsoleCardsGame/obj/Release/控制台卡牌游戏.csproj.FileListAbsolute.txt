@@ -1,0 +1,14 @@
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\bin\Release\ConsoleCardsGame.exe.config
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\bin\Release\ConsoleCardsGame.exe.manifest
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\bin\Release\ConsoleCardsGame.application
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\bin\Release\ConsoleCardsGame.exe
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\bin\Release\ConsoleCardsGame.pdb
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\obj\Release\控制台卡牌游戏.csproj.AssemblyReference.cache
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\obj\Release\控制台卡牌游戏.csproj.CoreCompileInputs.cache
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\obj\Release\ConsoleCardsGame.TrustInfo.xml
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\obj\Release\ConsoleCardsGame.exe.manifest
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\obj\Release\ConsoleCardsGame.application
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\obj\Release\ConsoleCardsGame.exe
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\obj\Release\ConsoleCardsGame.pdb
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\obj\Release\ConsoleCardsGame.Properties.Resources.resources
+C:\Users\常智祺\source\repos\控制台卡牌游戏\ConsoleCardsGame\obj\Release\控制台卡牌游戏.csproj.GenerateResource.cache

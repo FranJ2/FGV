@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Data type = "Unit">
+	<Unit id = "不朽者">
+		<Hp value = "350"/>
+		<MaxHp value = "350"/>
+		<Armor value = "2"/>
+		<ArmorReducesDamage value= "2"/>
+		<WeaponsArrays Link = "相位碎裂炮"/>
+		<ArmorType index = "重装甲"/>
+		<ActionPoints value = "1"/>
+		<PlanarArrays index = "地面单位"/>
+		<SpecialAttributes index ="机械"/>
+	</Unit>
+	<Unit id = "工程兵">
+		<Hp value = "50"/>
+		<MaxHp value = "50"/>
+		<Armor value = "1"/>
+		<ArmorReducesDamage value= "5"/>
+		<WeaponsArrays Link = "工兵铲"/>
+		<ArmorType index = "中甲"/>
+		<ActionPoints value = "1"/>
+		<PlanarArrays index = "地面单位"/>
+		<SpecialAttributes index ="生物"/>
+	</Unit>
+</Data>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Unitlist>
+	<Unit>
+		<name>普通人</name>
+		<hp>15</hp>
+		<atk>5</atk>
+		<def>10</def>
+		<ActionPoints>1</ActionPoints>
+	</Unit>
+</Unitlist>
